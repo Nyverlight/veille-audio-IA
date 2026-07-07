@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-07</title>
+      <description>Première attaque de ransomware pilotée par une IA, Anthropic accusé d'avoir surveillé des utilisateurs, et nouveaux licenciements massifs chez Microsoft.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-07.mp3</guid>
+      <pubDate>Tue, 07 Jul 2026 04:08:01 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-07.mp3" length="2126304" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-03</title>
       <description>OpenAI propose 5 % de son capital au gouvernement américain, la course aux puces IA s'intensifie entre Anthropic, Samsung et SK Hynix, et Microsoft comme Meta accélèrent sur l'infrastructure cloud.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-03.mp3</guid>
