@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-09</title>
+      <description>OpenAI dévoile le mode vocal GPT-Live et lance GPT-5.6, xAI répond avec Grok 4.5, et Samsung devient l'entreprise la plus rentable du monde grâce à l'IA.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-09.mp3</guid>
+      <pubDate>Thu, 09 Jul 2026 04:09:10 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-09.mp3" length="2377584" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-07</title>
       <description>Première attaque de ransomware pilotée par une IA, Anthropic accusé d'avoir surveillé des utilisateurs, et nouveaux licenciements massifs chez Microsoft.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-07.mp3</guid>
