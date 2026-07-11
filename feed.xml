@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-11</title>
+      <description>OpenAI lance GPT 5.6 et l'agent ChatGPT Work, Apple attaque OpenAI en justice pour vol de secrets industriels, et Meta retire sa fonctionnalité de deepfakes sur Instagram.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-11.mp3</guid>
+      <pubDate>Sat, 11 Jul 2026 04:07:49 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-11.mp3" length="1928160" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-09</title>
       <description>OpenAI dévoile le mode vocal GPT-Live et lance GPT-5.6, xAI répond avec Grok 4.5, et Samsung devient l'entreprise la plus rentable du monde grâce à l'IA.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-09.mp3</guid>
