@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-13</title>
+      <description>La contestation des centres de données IA, les limites de l'outil de détection d'images de Meta face à la nouvelle règle européenne, et l'héritage des puces IA d'Apple.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-13.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 04:08:21 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-13.mp3" length="1153584" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-12</title>
       <description>Meta retire sa fonction de deepfakes IA sur Instagram, Apple attaque OpenAI en justice, et Washington ouvre l'accès aux puces IA pour les Émirats.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-12.mp3</guid>
