@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-17</title>
+      <description>L'UE force Google à ouvrir Android et Search aux IA rivales, 1Password laisse Claude se connecter sans voir vos mots de passe, et OpenAI lance son premier hardware avec le Codex Micro.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-17.mp3</guid>
+      <pubDate>Fri, 17 Jul 2026 04:08:50 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-17.mp3" length="2077632" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-16</title>
       <description>OpenAI dévoile GPT-Red et le clavier Codex, Thinking Machines lance son modèle ouvert Inkling, et Anthropic parie avec Ode sur l'implémentation en entreprise.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-16.mp3</guid>
