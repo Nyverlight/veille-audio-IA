@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-26</title>
+      <description>Claude Opus 5 et l'interprétabilité chez Anthropic, les résultats contrastés de Google face au coût de l'IA, et la mobilisation autour des modèles à poids ouverts.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-26.mp3</guid>
+      <pubDate>Sun, 26 Jul 2026 04:08:04 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-26.mp3" length="1736208" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-21</title>
       <description>La Chine bouscule l'IA mondiale avec ses modèles ouverts Kimi K3 et Qwen, le règlement copyright à 1,5 milliard d'Anthropic est validé, et Sony attaque Udio sur 30 000 chansons.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-21.mp3</guid>
