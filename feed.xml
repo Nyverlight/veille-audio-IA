@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-29</title>
+      <description>Sécurité de l'IA après l'incident OpenAI–Hugging Face, NVIDIA investit 5 milliards dans Safe Superintelligence, et les coûts de l'IA rendent Wall Street nerveux.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-29.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 04:09:06 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-29.mp3" length="2101968" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-28</title>
       <description>Retombées de la cyberattaque OpenAI contre Hugging Face, la poussée des modèles chinois en open-weight avec Kimi K3, et le lancement de Claude Opus 5.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-28.mp3</guid>
