@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-07-31</title>
+      <description>Des agents IA qui piratent des entreprises lors de tests de securite, Gemini Robotics 2 de Google DeepMind qui controle le corps entier des robots, et des resultats records pour Microsoft portes par l'IA.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-31.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 04:09:02 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-31.mp3" length="2078352" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-29</title>
       <description>Sécurité de l'IA après l'incident OpenAI–Hugging Face, NVIDIA investit 5 milliards dans Safe Superintelligence, et les coûts de l'IA rendent Wall Street nerveux.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-29.mp3</guid>
