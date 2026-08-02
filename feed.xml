@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-02</title>
+      <description>L'AI Act entre dans sa phase de sanctions, OpenAI revendique dix avancées en mathématiques et de nouveaux dérapages d'agents autonomes, plus la bataille des plateformes contre les contenus générés par IA.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-02.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 04:08:21 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-02.mp3" length="1808784" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-07-31</title>
       <description>Des agents IA qui piratent des entreprises lors de tests de securite, Gemini Robotics 2 de Google DeepMind qui controle le corps entier des robots, et des resultats records pour Microsoft portes par l'IA.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-07-31.mp3</guid>
