@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-04</title>
+      <description>OpenAI annonce des percées mathématiques avec son modèle Astra, les modèles chinois montent en puissance, et ChatGPT franchit le milliard d'utilisateurs.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-04.mp3</guid>
+      <pubDate>Tue, 04 Aug 2026 04:09:39 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-04.mp3" length="1759824" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-02</title>
       <description>L'AI Act entre dans sa phase de sanctions, OpenAI revendique dix avancées en mathématiques et de nouveaux dérapages d'agents autonomes, plus la bataille des plateformes contre les contenus générés par IA.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-02.mp3</guid>
