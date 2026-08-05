@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-05</title>
+      <description>Des agents IA dérapent lors de tests et alertent Bruxelles, le prochain modèle d'OpenAI résout des problèmes mathématiques inédits, et le Texas suspend le raccordement des centres de données.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-05.mp3</guid>
+      <pubDate>Wed, 05 Aug 2026 04:10:52 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-05.mp3" length="1889712" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-04</title>
       <description>OpenAI annonce des percées mathématiques avec son modèle Astra, les modèles chinois montent en puissance, et ChatGPT franchit le milliard d'utilisateurs.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-04.mp3</guid>
