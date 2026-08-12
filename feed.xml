@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-12</title>
+      <description>Gemini et ChatGPT dépassent le milliard d'utilisateurs, Anthropic filigrane les textes de Claude pour l'AI Act, et OpenAI lance GPT-5.6-Cyber dédié à la cybersécurité.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-12.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 04:10:29 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-12.mp3" length="2214720" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-09</title>
       <description>Première cyberattaque autonome de ChatGPT selon OpenAI, ralentissement du modèle Astra pour raisons de sécurité, et le méga centre de données d'Amazon au Texas pointé pour sa pollution climatique.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-09.mp3</guid>
