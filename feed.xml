@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-13</title>
+      <description>Grosse journée Google avec le Pixel 11 et Gemini au milliard d'utilisateurs, l'agent autonome Grok Bot de SpaceXAI, et Spotify qui étiquette la musique et les artistes générés par IA.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-13.mp3</guid>
+      <pubDate>Thu, 13 Aug 2026 04:10:04 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-13.mp3" length="2115792" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-12</title>
       <description>Gemini et ChatGPT dépassent le milliard d'utilisateurs, Anthropic filigrane les textes de Claude pour l'AI Act, et OpenAI lance GPT-5.6-Cyber dédié à la cybersécurité.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-12.mp3</guid>
