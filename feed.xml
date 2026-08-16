@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-16</title>
+      <description>Anthropic détaille le filigrane des textes de Claude, SpaceX officialise le rachat de Cursor pour 60 milliards, et la publicité arrive dans ChatGPT en France.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-16.mp3</guid>
+      <pubDate>Sun, 16 Aug 2026 04:08:56 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-16.mp3" length="1710576" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-14</title>
       <description>Google lance Gemini 3.7 Flash et dépasse le milliard d'utilisateurs, OpenAI dévoile son mode Ultrafast, et Anthropic vise une entrée en bourse à deux mille milliards de dollars.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-14.mp3</guid>
@@ -209,13 +216,6 @@
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-16.mp3</guid>
       <pubDate>Tue, 16 Jun 2026 04:07:38 +0000</pubDate>
       <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-16.mp3" length="2238912" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Veille IA - 2026-06-15</title>
-      <description>Anthropic suspend Fable 5 et Mythos sur ordre de Washington, Microsoft serre la bride au tokenmaxxing, et Meta démantèle son accord Manus sous la pression de Pékin.</description>
-      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-15.mp3</guid>
-      <pubDate>Mon, 15 Jun 2026 02:07:13 +0000</pubDate>
-      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-15.mp3" length="1894176" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
