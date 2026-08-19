@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-19</title>
+      <description>OpenAI renforce sa sécurité après le piratage de Hugging Face, le revenu d'Anthropic bondit à 65 milliards de dollars, et OpenAI lance une version de ChatGPT pour les adolescents.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-19.mp3</guid>
+      <pubDate>Wed, 19 Aug 2026 04:08:50 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-19.mp3" length="2158416" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-16</title>
       <description>Anthropic détaille le filigrane des textes de Claude, SpaceX officialise le rachat de Cursor pour 60 milliards, et la publicité arrive dans ChatGPT en France.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-16.mp3</guid>
@@ -209,13 +216,6 @@
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-17.mp3</guid>
       <pubDate>Wed, 17 Jun 2026 04:09:20 +0000</pubDate>
       <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-17.mp3" length="2065680" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Veille IA - 2026-06-16</title>
-      <description>Washington force Anthropic à couper Fable 5 et Mythos 5, enquête de 42 États sur OpenAI, et Salesforce rachète Fin pour 3,6 milliards de dollars.</description>
-      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-16.mp3</guid>
-      <pubDate>Tue, 16 Jun 2026 04:07:38 +0000</pubDate>
-      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-16.mp3" length="2238912" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
