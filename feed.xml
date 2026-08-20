@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-20</title>
+      <description>OpenAI bride volontairement son prochain modele Astra juge trop doue en piratage, bataille OpenAI-Anthropic sur la confidentialite des donnees, et arrivee de la publicite dans ChatGPT en France.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-20.mp3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:08:13 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-20.mp3" length="2139552" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-19</title>
       <description>OpenAI renforce sa sécurité après le piratage de Hugging Face, le revenu d'Anthropic bondit à 65 milliards de dollars, et OpenAI lance une version de ChatGPT pour les adolescents.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-19.mp3</guid>
@@ -209,13 +216,6 @@
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-18.mp3</guid>
       <pubDate>Thu, 18 Jun 2026 04:07:37 +0000</pubDate>
       <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-18.mp3" length="2033712" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Veille IA - 2026-06-17</title>
-      <description>Suspension mondiale de Fable 5 et Mythos 5 d'Anthropic, l'entrée en Bourse de SpaceX et son rachat de Cursor, et la révision de la loi européenne sur l'IA.</description>
-      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-17.mp3</guid>
-      <pubDate>Wed, 17 Jun 2026 04:09:20 +0000</pubDate>
-      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-17.mp3" length="2065680" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
