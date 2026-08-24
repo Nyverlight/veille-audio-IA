@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-24</title>
+      <description>Droit d'auteur et entraînement des IA, le modèle furtif Ox Alpha, et Bosch qui se lance dans les robots humanoïdes.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-24.mp3</guid>
+      <pubDate>Mon, 24 Aug 2026 04:07:12 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-24.mp3" length="1531440" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-23</title>
       <description>L'agent Faraday d'Inherent surpasserait Anthropic et OpenAI pour répliquer la recherche, OpenAI veut renforcer la loi californienne SB 53 sur la sécurité de l'IA, et une étude du MIT complique les procès en plagiat contre Midjourney.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-23.mp3</guid>
@@ -209,13 +216,6 @@
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-22.mp3</guid>
       <pubDate>Mon, 22 Jun 2026 04:06:50 +0000</pubDate>
       <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-22.mp3" length="1718496" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Veille IA - 2026-06-20</title>
-      <description>Les États-Unis forcent Anthropic à suspendre Fable 5 et Mythos 5, OVHcloud rachète Gladia pour un cloud vocal souverain, et OpenAI comme Anthropic préparent leur entrée en bourse.</description>
-      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-20.mp3</guid>
-      <pubDate>Sat, 20 Jun 2026 04:08:11 +0000</pubDate>
-      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-20.mp3" length="2274336" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
