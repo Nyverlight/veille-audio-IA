@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-25</title>
+      <description>Hugging Face en discussions pour un rachat à 13 milliards, NVIDIA prêt à investir massivement dans Perplexity, et OpenAI pousse ses agents avec GPT-5.6 dans Kiro.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-25.mp3</guid>
+      <pubDate>Tue, 25 Aug 2026 04:09:25 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-25.mp3" length="2174688" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-24</title>
       <description>Droit d'auteur et entraînement des IA, le modèle furtif Ox Alpha, et Bosch qui se lance dans les robots humanoïdes.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-24.mp3</guid>
@@ -209,13 +216,6 @@
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-24.mp3</guid>
       <pubDate>Wed, 24 Jun 2026 04:07:35 +0000</pubDate>
       <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-24.mp3" length="1936656" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Veille IA - 2026-06-22</title>
-      <description>Pressions politiques sur Anthropic aux États-Unis, déploiement massif de ChatGPT et Codex chez Samsung, et le choix d'Amazon d'automatiser la supervision de ses agents IA.</description>
-      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-22.mp3</guid>
-      <pubDate>Mon, 22 Jun 2026 04:06:50 +0000</pubDate>
-      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-22.mp3" length="1718496" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
