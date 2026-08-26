@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-IA/cover.jpg" />
     <item>
+      <title>Veille IA - 2026-08-26</title>
+      <description>OpenAI dévoile sa puce d'inférence Jalapeño, robots humanoïdes en vedette en Chine, et Claude gagne une mémoire partagée entre chat et Cowork.</description>
+      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-26.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 04:11:10 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-26.mp3" length="2139264" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille IA - 2026-08-25</title>
       <description>Hugging Face en discussions pour un rachat à 13 milliards, NVIDIA prêt à investir massivement dans Perplexity, et OpenAI pousse ses agents avec GPT-5.6 dans Kiro.</description>
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-08-25.mp3</guid>
@@ -209,13 +216,6 @@
       <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-25.mp3</guid>
       <pubDate>Thu, 25 Jun 2026 04:07:10 +0000</pubDate>
       <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-25.mp3" length="2024784" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Veille IA - 2026-06-24</title>
-      <description>Mythos d'Anthropic révèle une faille vieille de 30 ans, le compte à rebours de l'AI Act vers le 2 août, et la vague de licenciements liés à l'IA chez Oracle.</description>
-      <guid>https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-24.mp3</guid>
-      <pubDate>Wed, 24 Jun 2026 04:07:35 +0000</pubDate>
-      <enclosure url="https://nyverlight.github.io/veille-audio-IA/audio/ia-2026-06-24.mp3" length="1936656" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
